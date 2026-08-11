@@ -1,0 +1,38 @@
+{
+    "timestamp": "20260810_203631",
+    "wavelength_um": 0.759,
+    "slm_shape": [
+        1200,
+        1920
+    ],
+    "slm_pixel_pitch_um": [
+        8.0,
+        8.0
+    ],
+    "slm_bitdepth": 8,
+    "linear_lut_path": "C:\\Program Files\\Meadowlark Optics\\Blink 1920 HDMI\\LUT Files\\19x12_8bit_linearVoltage.lut",
+    "fan_lut_path": "C:\\Users\\admin\\Desktop\\Projects\\SLM\\LUT from Fan\\759nm_roomtemp_global\\759nm_roomtemp_global\\759nm_rommtemp_global.lut",
+    "reference_gray": 255,
+    "test_gray_start": 255,
+    "test_gray_stop": 0,
+    "pixels_per_stripe": 8,
+    "camera_serial": "015C2",
+    "camera_woi": [
+        4312,
+        640,
+        1728,
+        640
+    ],
+    "camera_exposure_s": 0.000304681,
+    "camera_gain": 0.0,
+    "measurement_frames_per_gray": 3,
+    "extra_settle_s": 0.2,
+    "between_frames_s": 0.05,
+    "signal_roi_local": [
+        36,
+        596,
+        38,
+        598
+    ],
+    "background_border_pixels": 30
+}
