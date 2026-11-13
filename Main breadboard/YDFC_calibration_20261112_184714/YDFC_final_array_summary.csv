@@ -1,0 +1,38 @@
+Parameter,Value
+Array dimensions,15 x 15
+Number of tweezers,225
+Valid Gaussian fits,225
+Wavelength [nm],759.3
+Fourier lens [mm],300.0
+Input beam diameter [mm],9.6
+Camera pixel [um],1.85
+SLM aperture [mm],15.36 x 9.60
+Nominal atom spacing [um],4.04
+Ideal Gaussian FWHM [px],9.613898760855436
+Ideal Gaussian FWHM [um],17.785712707582558
+Ideal truncated minor FWHM [px],10.274315448378202
+Ideal truncated major FWHM [px],12.750573593647033
+Measured mean minor FWHM [px],11.983713923962435
+Measured mean major FWHM [px],14.070329875524298
+Measured minor FWHM std [px],0.3403986770925076
+Measured major FWHM std [px],0.5121705721978848
+Measured mean minor FWHM [um],22.169870759330504
+Measured mean major FWHM [um],26.030110269719952
+Measured minor waist [um],18.829354545467293
+Measured major waist [um],22.107940115974205
+Estimated atom-plane minor FWHM [um],0.5808986471600739
+Estimated atom-plane major FWHM [um],0.6820452859313146
+Mean ellipticity,1.1748229385316407
+Integrated power CV [%],4.898198038870161
+Fitted peak CV [%],4.318702171386969
+Mean model-based Strehl,0.7788656508129255
+Mean minor broadening [%],16.637589960838316
+Mean major broadening [%],10.350564013330622
+Mean area-equivalent broadening [%],13.426069324892175
+Within 0% of DL,0/225 (0.0%)
+Within 5% of DL,0/225 (0.0%)
+Within 10% of DL,2/225 (0.9%)
+Within 15% of DL,71/225 (31.6%)
+Within 20% of DL,187/225 (83.1%)
+Within 25% of DL,222/225 (98.7%)
+Within 30% of DL,225/225 (100.0%)

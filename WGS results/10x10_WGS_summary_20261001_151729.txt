@@ -1,0 +1,13 @@
+10x10 YDFC WGS result
+=====================
+
+FP7 averaged-pattern CV = 2.084601 %
+FP8 averaged-pattern CV = 2.044702 %
+FP8 mean frame CV = 2.297028 %
+FP8 normalized min = 0.944327
+FP8 normalized max = 1.043189
+Camera registration shift [x,y] px = [19.440316854999672, 37.55406962000002]
+Command pitch X = 72.62338280200022
+Command pitch Y = 73.858364844231
+Array center = [2956.2096831450003, 1119.85593038]
+Fixed-phase WGS final state = FP8

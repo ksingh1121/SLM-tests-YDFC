@@ -1,0 +1,6 @@
+Criterion,Target,Measured,Pass
+Detected tweezers,225,225,True
+Valid PSF fits,225,225,True
+Integrated power CV,<= 5%,5.094%,False
+Fitted peak intensity CV,<= 5%,4.311%,True
+Position RMS,<= 2 px,3.833 px,False

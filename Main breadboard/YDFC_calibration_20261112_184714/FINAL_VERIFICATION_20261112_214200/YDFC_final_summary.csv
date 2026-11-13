@@ -1,0 +1,43 @@
+Parameter,Final measured value
+Array dimensions,15 x 15
+Number of detected tweezers,225
+Valid PSF fits,225
+Wavelength [nm],759.3
+Fourier lens [mm],300.0
+Incident beam diameter [mm],9.6
+Camera pixel pitch [um],1.85
+Nominal atom spacing [um],4.04
+Exposure [us],505.542
+Integrated power CV [%],5.094452187234997
+Pixel peak CV [%],4.295287030151081
+Fitted peak CV [%],4.3107035759997805
+Mean minor FWHM [px],12.0740949855148
+Mean major FWHM [px],14.134463540532243
+Minor FWHM std [px],0.3429555818538708
+Major FWHM std [px],0.5178381775735496
+Mean minor FWHM [um],22.33707572320238
+Mean major FWHM [um],26.14875754998465
+Mean ellipticity,1.171485455026076
+Estimated atom-plane minor FWHM [um],0.5852764794216969
+Estimated atom-plane major FWHM [um],0.6851502385430613
+Estimated atom-plane minor waist [um],0.4970880731686694
+Estimated atom-plane major waist [um],0.5819130340671586
+Horizontal camera pitch [px],83.97215938833277
+Vertical camera pitch [px],82.72074594877755
+Position RMS [px],3.8330243384947313
+Translation-removed RMS [px],0.4227156260803248
+Mean Gaussian fit R2,0.9970590552845245
+Ideal fitted minor FWHM [px],10.274315448378202
+Ideal fitted major FWHM [px],12.750573593647033
+Mean area-equivalent broadening [%],14.10848577709655
+Mean model-based Strehl,0.7682870277802125
+Number with estimated Strehl >= 0.85,2
+Mean saturated zero-order pixels,3071.0
+Core acceptance criteria passed,False
+Within 0% of DL widths,0/225 (0.00%)
+Within 5% of DL widths,0/225 (0.00%)
+Within 10% of DL widths,0/225 (0.00%)
+Within 15% of DL widths,39/225 (17.33%)
+Within 20% of DL widths,176/225 (78.22%)
+Within 25% of DL widths,220/225 (97.78%)
+Within 30% of DL widths,225/225 (100.00%)

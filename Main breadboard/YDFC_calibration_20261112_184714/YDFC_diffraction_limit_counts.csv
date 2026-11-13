@@ -1,0 +1,8 @@
+Tolerance_pct,Infinite_Gaussian,Truncated_direct,Truncated_matched_fit,Matched_fit_fraction_pct,Area_equivalent_count,Area_equivalent_fraction_pct
+0,0,0,0,0.0,0,0.0
+5,0,0,0,0.0,0,0.0
+10,0,13,2,0.8888888888888888,27,12.0
+15,0,118,71,31.555555555555557,161,71.55555555555556
+20,0,206,187,83.11111111111111,225,100.0
+25,0,225,222,98.66666666666667,225,100.0
+30,0,225,225,100.0,225,100.0
